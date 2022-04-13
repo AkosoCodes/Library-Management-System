@@ -12,7 +12,7 @@
     <li>Members should be able to see a list of available books, with their title, author and quantity.</li>
     <li>Each book will contain a unique ID, and other factors for easy targeting.</li>
     <li>There can be many quantities of a single book, so that many members can borrow the same one.</li>
-    <li>Librarians will have the option to see a list of all borrowed books, with information of who took them, as well as the due date.</li>
+    <li>Librarians will have the option to see a list of all borrowed books, with information of who took them</li>
     <li>Members will be able to borrow books, return them.</li>
     <li>As with books, each member will have their own ID.</li>
     <li>There should be a validation check of credentials when users are logging in.</li>
@@ -24,8 +24,8 @@
 
 <p>There will be two main actors:</p>
 <ul>
-    <li>Librarians: Responsible for creating/removing books and members. They will be able to see all the available books, list of borrowed ones, and due dates.</li>
-    <li>Members: Can search catalogue of available books, borrow books and check their own due dates.</li>
+    <li>Librarians: Responsible for creating/removing books and members. They will be able to see all the available books, and list of borrowed ones</li>
+    <li>Members: Can search catalogue of available books and borrow books</li>
 </ul>
 <p>The main use-cases for this project are:</p>
 <ul>
@@ -34,7 +34,6 @@
     <li><strong>Search Books</strong></li>
     <li><strong>Borrow/Return Books</strong></li>
     <li><strong>Login</strong></li>
-    <li><strong>Check Deadlines</strong></li>
 </ul>
 
 <h2>Class Diagram</h2>
@@ -47,9 +46,8 @@
 <li><strong>Book Item (extends Book)</strong>: As there can be multiple copies for a single book, it should be differentiated into an item. It will contain the quantity, status, due date, and borrow date. </li>
 <li><strong>Account</strong>: There will be two different types of accounts, Members and Librarians. Both will contain ID, username, password, status and personal information.</li>
 <ul><li>Librarians (extends Account): will have the functions to add/deleteBook(), block/unblockMember().</li></ul>
-<ul><li>Members (extends Account): will have additional attributes of totalBorrowed(), and membershipDate().</li></ul>
-<li><strong>Book Reservation</strong>: will store information about the lending of the books. It will contain the creation date, and due date.</li>
-<li><strong>Search/Inventory</strong>: contains list of all books which can be sorted in different ways (such as by title, Author, A-Z, Z-A, etc...)</li>
+<ul><li>Members (extends Account): will have additional attributes of totalBorrowed().</li></ul>
+<li><strong>Book Reservation</strong>: will store information about the lending of the books.</li>
 
 
 
