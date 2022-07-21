@@ -4,9 +4,9 @@
 
 ## 📝 | Table of Contents
 - [🧐 Project Task <a name="project_task"></a>](#--project-task-)
-- [📏 Project Requirements  <a name="requirements"></a>](#--requirements-)
-- [🏛️ Use Case Diagram <a name="use-case"></a>](#--use-case-)
-- [📚 Class Diagram <a name="class-case"></a>](#--class-case-)
+- [📏 Project Requirements  <a name="requirements"></a>](#--project-requirements-)
+- [🏛️ Use Case Diagram <a name="use-case"></a>](#--use-case-diagram-)
+- [📚 Class Diagram <a name="class-case"></a>](#--class-diagram-)
 - [📸 Demonstration <a name="demo"></a>](#--demonstration-)
 - [🧰 Languages & Tools <a name="languages_&_tools"></a>](#--languages--tools-)
 - [🏁 Getting Started <a name="getting_started"></a>](#--getting-started-)
