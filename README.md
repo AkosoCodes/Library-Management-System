@@ -4,7 +4,7 @@
 
 ## 📝 | Table of Contents
 - [🧐 Project Task <a name="project_task"></a>](#--project-task-)
-- [📏 Project Requirements  <a name="requirements"></a>](#--project-requirements-)
+- [📏 Project Requirements  <a name="requirements"></a>](#--project-requirements--)
 - [🏛️ Use Case Diagram <a name="use-case"></a>](#--use-case-diagram-)
 - [📚 Class Diagram <a name="class-case"></a>](#--class-diagram-)
 - [📸 Demonstration <a name="demo"></a>](#--demonstration-)
