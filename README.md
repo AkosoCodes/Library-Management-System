@@ -91,7 +91,7 @@ These instructions will get you a copy of the project up and running on your loc
 <ol>
 <li>Compile the file</li>
 <li>Run the output</li>
-<li>Have fun! :D</li>
+<li>Have fun! :)</li>
 </ol>
 
 ## ⚖ | License <a name="license"></a>
