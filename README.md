@@ -51,8 +51,6 @@ The main use-cases for this project are:
     <li>Login</li>
 </ul>
 
-{WIP: Add Use Case Diagram here}
-
 ## 📚 | Class Diagram <a name="class-case"></a>
 
 <p>The main classes used for this project are:</p>
@@ -67,8 +65,6 @@ The main use-cases for this project are:
 <ul><li>Members (extends Account): will have additional attributes of totalBorrowed().</li></ul><br>
 <li><strong>Book Reservation</strong>: will store information about the lending of the books.</li><br>
 </ul>
-
-{WIP: Add Class Diagram here}
 
 ## 📸 | Demonstration <a name="demo"></a>
 
